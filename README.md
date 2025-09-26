@@ -1,9 +1,9 @@
 # Rayflies Image Sender Chrome Extension
 
-![image 1](image 1.png)
+![image 1](image%201.png)  
 *Figure 1: Right-click menu on an image with Rayflies options.*
 
-![image 2](image 2.png)
+![image 2](image%202.png)  
 *Figure 2: Image automatically injected into the Rayflies page.*
 
 ## Overview
